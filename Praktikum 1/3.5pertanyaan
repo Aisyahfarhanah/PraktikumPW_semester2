@@ -1,0 +1,4 @@
+1. Apa bedanya variabel user dengan variable system ?
+Variabel sistem dibagi untuk semua user, tetapi variabel user hanya untuk akun / profil Anda.
+2.  Apa persamaan variabel system dengan variabel konstan ?
+Konstanta sama dengan variabel, namun konstanta adalah variabel yang nilainya tetap, tidak akan bisa berubah selama program di jalankan.

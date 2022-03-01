@@ -1,0 +1,5 @@
+Fungsi sort dalam PHP adalah fungsi yang dapat digunakan untuk mengurutkan data berbentuk array secara instan dalam PHP. Dalam tutorial kali ini kita akan membahas berbagai fungsi sort built in yang ada di PHP beserta contoh langsung penggunaannya.
+1. Mengurutkan data angka secara ascending ( dari kecil ke besar )
+2. Mengurutkan data angka secara descending ( dari besar ke kecil)
+3. Mengurutkan data huruf / string secara ascending ( urut abjad / alfabet )
+4. Mengurutkan data berdasar lebih dari 1 parameter
